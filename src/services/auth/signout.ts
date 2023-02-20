@@ -1,5 +1,5 @@
 import type { ApiContext } from 'types'
-import { fetcher } from 'utils'
+import { fetcher } from '/src/utils'
 
 /**
  * 認証API（サインアウト）
